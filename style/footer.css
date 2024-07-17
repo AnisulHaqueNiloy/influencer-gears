@@ -1,0 +1,11 @@
+footer {
+  max-width: 1800px;
+  height: 150px;
+  background-color: rgb(21, 17, 37);
+  margin: 20px auto;
+  text-align: center;
+}
+footer > h1,
+p {
+  color: white;
+}
