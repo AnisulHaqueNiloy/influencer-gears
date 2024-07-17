@@ -3,10 +3,10 @@
   margin: 100px auto;
 }
 
-.container {
+.feature_container {
   display: flex;
   justify-content: flex-start;
-  gap: 200px;
+  gap: 100px;
 }
 
 h1 {
